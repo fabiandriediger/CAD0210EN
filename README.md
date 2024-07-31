@@ -1,1 +1,1 @@
-test
+Course material for CAD0210EN on edx.org

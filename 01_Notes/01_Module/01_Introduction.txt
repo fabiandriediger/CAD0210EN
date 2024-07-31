@@ -1,0 +1,67 @@
+Libraries:
+- Repository of pre-written code segments
+- Reusable functions and routines
+- Target specific tasks/functions
+- Offer flexibility for integration
+Examples: jQuery, Lodash, React
+
+Framework:
+- Comprehensive software development platform
+- Provide foundation and structure for application building
+- Handle user requests
+- Manage data flow
+- Impose architecture
+Example: AngularJS, Vue.js
+
+Front-end frameworks:
+- User facing
+- Leverage HTML, CSS and JavaScript
+- Create dynamic and interactive user interfaces
+Example: React, AngularJS, Vue.js
+
+React:
+- Open source JavaScript library
+- Developed by Meta
+- Interactive user interfaces
+
+Features of React:
+- Components
+- Declarative Syntax
+- Virtual DOM
+- One way data binding
+- JavaScript XML (JSX)
+- Hook Employment
+
+Components:
+- Emphasizes reusable UI elements
+- Composing independent components
+- Encapsulates UI functionality in individual files
+- Easy to use withouot duplication
+
+Declarative Syntax:
+- UI behavior based on states
+- Focuses on behavior
+- Manages the underlying DOM
+
+Virtual DOM:
+- Generates virtual DOM copies
+- Composes to real DOM
+- Updates essential segments
+- Optimizes performance
+- Minimizes DOM modifications
+
+One way data binding:
+- Data flows unidirectionally
+- Simplifies data management
+- Reduce bugs
+
+JavaScript XML:
+- Integrates HTML into JavaScript code
+- Makes it easier to create and visualize UI components
+
+Hook Employment:
+- Handle states
+- No need for class components
+- Simplify component logic
+- Promote code reuse
+- Easily manage stateful behavior

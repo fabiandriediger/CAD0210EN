@@ -1,0 +1,23 @@
+Introduction to build tools:
+- CRA tool
+-- npx create-react-app app-name
+-- Installs unnecessary files and folder
+-- Leads to large file size
+- Vite tool
+-- npm create vite@latest
+-- Improved development tool
+-- Used with React, Angular, or JSX
+-- Bundles code only when required
+
+Folder structure:
+Node_modules -> Dependencies through npm and yarn
+public -> Static assets like HTML files, images, and fonts
+src -> Source code for the React application
+main.jsx -> Entry point for the React app
+App.jsx -> Root component of the React app
+package.json -> Metadata, scripts for running, building and testing
+vite.config.js -> Configuration settings for the Vite build tool
+.giignore -> Files and folders to be ignored by git
+README.md --> setup, instructions, documentation etc.
+Index.html -> Entry point for web apps
+eslintrc.cjs -> Configuration file for ESLint
